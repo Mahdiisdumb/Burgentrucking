@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1790126568|13606773';
+const CACHE_VERSION = '1790126766|13106729';
 /** @type {string} */
 const CACHE_PREFIX = 'BERGENTRUCK 201X-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
